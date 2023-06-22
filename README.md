@@ -1,6 +1,6 @@
 # Ignite Timer
 
-Projeto desenvolvido na Trilha ReactJS do Ignite.
+Cronômetro para ciclos de atividades que exigem concentração por um período de tempo. 
 
 ### 🎨 Layout da aplicação
 
